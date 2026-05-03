@@ -1,6 +1,6 @@
 # Me-in-a-cool-way-
 # 💫 About Me:
-👉 16 yo dev<br>👉 HTML , LUAU , PYTHON <br>Editor for fun 😌
+👉 16 yo dev<br>👉 Find my projects github<br>Editor for fun 😌
 
 
 # 💻 Tech Stack:
